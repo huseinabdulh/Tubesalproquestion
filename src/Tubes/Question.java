@@ -13,7 +13,8 @@ public class Question {
 
     String prompt;
     String answer;
-
+    //coba
+    
     public Question(String prompt, String answer) {
         this.prompt = prompt;
         this.answer = answer;

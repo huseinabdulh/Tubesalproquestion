@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author ASUS RYZEN
  */
 public class App {
-
+    //coba
     public static void main(String[] args) {
         String q1 = "What color are apples?\n"
                 + "(a)red/green\n(b)Orange\n(c)Magenta\n";
